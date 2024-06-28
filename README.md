@@ -61,11 +61,3 @@ Data source from [Kaggle CareerBuilder](https://www.kaggle.com/c/job-recommendat
 - words tokenizing
 - model training
 
-## Reference
-[ALS Implicit Collaborative Filtering](https://medium.com/radon-dev/als-implicit-collaborative-filtering-5ed653ba39fe)  
-[A Gentle Introduction to Recommender Systems with Implicit Feedback](https://jessesw.com/Rec-System/)
-
-[Finding Similar Music using Matrix Factorization](http://www.benfrederickson.com/matrix-factorization/)
-
-## Future Improvement
-Inlcude [evaluation](https://gist.github.com/jbochi/2e8ddcc5939e70e5368326aa034a144e#file-evaluation-ipynb).
